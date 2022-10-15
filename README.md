@@ -13,6 +13,6 @@ INSTALLATION
 
 This module requires the following modules:
   1. Download all files and save them in the same directory.
-  2. Chose a IDE like PyCharm, Code, or Spyder and open all files.
+  2. Chose a IDE like xcode , Code, and open all files.
   3. Install modules needed to run the program
   4. Run main.py
