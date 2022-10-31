@@ -7,6 +7,11 @@ This Habit Track App displays your usual habits and can track the activities you
 Building a simple Python backend for a habit monitoring app was the challenge at hand.
 The program was developed as part of a university project (B.Sc. Data Science). 
 
+LIBRARIES
+------------
+Datetime
+~ to get the current date and manage and work with date related values. I also imported date from this library to get the current date in integer values for comparing purpose. ~
+
 
 INSTALLATION 
 ------------
